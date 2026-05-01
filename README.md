@@ -5,13 +5,13 @@
 ### The smart, offline-first attendance app for teachers and institutions
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-[![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=github)](https://github.com/afaan13/attendance-tracker-releases/blob/main/app-release.apk)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/afaan13/attendance-tracker-releases/releases/tag/1.0.0)
 [![Min SDK](https://img.shields.io/badge/Android-8.0%2B-orange?style=for-the-badge&logo=android)](https://android.com)
 [![Size](https://img.shields.io/badge/APK%20Size-4.8%20MB-brightgreen?style=for-the-badge)]()
 
 > **Built for teachers. Designed for simplicity. Powered by the cloud.**
 
-[⬇️ Download Latest APK](https://github.com/afaan13/attendance-tracker-releases/blob/main/app-release.apk) &nbsp;•&nbsp; [🐛 Report a Bug](https://github.com/afaan13/attendance-tracker-releases/issues) &nbsp;•&nbsp; [💡 Request a Feature](https://github.com/afaan13/attendance-tracker-releases/issues)
+[⬇️ Download Latest APK](https://github.com/afaan13/attendance-tracker-releases/releases/tag/1.0.0) &nbsp;•&nbsp; [🐛 Report a Bug](https://github.com/afaan13/attendance-tracker-releases/issues) &nbsp;•&nbsp; [💡 Request a Feature](https://github.com/afaan13/attendance-tracker-releases/issues)
 
 </div>
 
@@ -74,7 +74,7 @@ Go to: **Settings → Security → Install Unknown Apps** and allow your browser
 *(This prompt may also appear automatically when you try to install the APK.)*
 
 ### Step 2 — Download the APK
-Download the latest `app-release.apk` from the **[download page](https://github.com/afaan13/attendance-tracker-releases/blob/main/app-release.apk)**.
+Download the latest `app-release.apk` from the **[Releases page](https://github.com/afaan13/attendance-tracker-releases/releases/tag/1.0.0)**.
 
 ### Step 3 — Install
 Open the downloaded APK file and tap **Install**. The app will be ready in a few seconds.
