@@ -5,13 +5,13 @@
 ### The smart, offline-first attendance app for teachers and institutions
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-[![Release](https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/attendance-tracker/releases/latest)
+[![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=github)](https://github.com/afaan13/attendance-tracker-releases/blob/main/app-release.apk)
 [![Min SDK](https://img.shields.io/badge/Android-8.0%2B-orange?style=for-the-badge&logo=android)](https://android.com)
 [![Size](https://img.shields.io/badge/APK%20Size-4.8%20MB-brightgreen?style=for-the-badge)]()
 
 > **Built for teachers. Designed for simplicity. Powered by the cloud.**
 
-[⬇️ Download Latest APK](https://github.com/yourusername/attendance-tracker/releases/latest) &nbsp;•&nbsp; [🐛 Report a Bug](https://github.com/yourusername/attendance-tracker/issues) &nbsp;•&nbsp; [💡 Request a Feature](https://github.com/yourusername/attendance-tracker/issues)
+[⬇️ Download Latest APK](https://github.com/afaan13/attendance-tracker-releases/blob/main/app-release.apk) &nbsp;•&nbsp; [🐛 Report a Bug](https://github.com/afaan13/attendance-tracker-releases/issues) &nbsp;•&nbsp; [💡 Request a Feature](https://github.com/afaan13/attendance-tracker-releases/issues)
 
 </div>
 
@@ -74,7 +74,7 @@ Go to: **Settings → Security → Install Unknown Apps** and allow your browser
 *(This prompt may also appear automatically when you try to install the APK.)*
 
 ### Step 2 — Download the APK
-Download the latest `app-release.apk` from the **[Releases](https://github.com/yourusername/attendance-tracker/releases/latest)** page.
+Download the latest `app-release.apk` from the **[download page](https://github.com/afaan13/attendance-tracker-releases/blob/main/app-release.apk)**.
 
 ### Step 3 — Install
 Open the downloaded APK file and tap **Install**. The app will be ready in a few seconds.
@@ -108,7 +108,7 @@ Open the downloaded APK file and tap **Install**. The app will be ready in a few
 
 ## 🐛 Found a Bug?
 
-Please open an issue on the [Issues page](https://github.com/yourusername/attendance-tracker/issues) with:
+Please open an issue on the [Issues page](https://github.com/afaan13/attendance-tracker-releases/issues) with:
 - Your Android version
 - A description of what happened
 - Steps to reproduce the problem
@@ -127,6 +127,6 @@ The source code is **proprietary and not open source**.
 
 Made with ❤️ by **Afaan**
 
-⭐ If you find this app useful, consider starring the repo!
+⭐ If you find this app useful, consider starring the [release repository](https://github.com/afaan13/attendance-tracker-releases)!
 
 </div>
